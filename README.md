@@ -13,10 +13,13 @@ kemudian pada folder tersebut kita akan memasukan modul package json
 kemudian cek apakah semua modul siap untuk di jalankan
 ![Screenshot 2025-04-30 063933](https://github.com/user-attachments/assets/99a7f779-d1fb-47ad-b222-04c1ba8199d8)
 
-kemudian pada folder xss-demo buat file baru berenama server.js untuk menjalankan web simpel yang sedang di serang xss![Screenshot 2025-04-30 064313]
+kemudian pada folder xss-demo buat file baru berenama server.js untuk menjalankan web simpel yang sedang di serang xss
 ![Screenshot 2025-04-30 063959](https://github.com/user-attachments/assets/d7effdf5-8b27-4e15-8f0b-25fc8841cf3b)
 ![Screenshot 2025-04-30 064006](https://github.com/user-attachments/assets/6e901bce-ec9f-4d0b-bf0b-874ea35a85ef)
 
-conto ketika web sedang di serang xss akan ada notifikasi alert pad aweb tersebut
+kemudian kita akses server dari web kita dengan memasukan port localhostnya
+![Screenshot 2025-04-30 064313fff](https://github.com/user-attachments/assets/f7749aca-9fa2-40ac-9415-be581615d843)
 
-![Uploading Screenshot 2025-04-30 064313.png…]()
+conto ketika web sedang di serang xss akan ada notifikasi alert pad aweb tersebut
+![Screenshot 2025-04-30 064313](https://github.com/user-attachments/assets/2f6cb49b-bb0e-4e91-91c2-e8ffd0fbc6b9)
+
